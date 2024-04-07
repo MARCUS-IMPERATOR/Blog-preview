@@ -23,7 +23,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/MARCUS-IMPERATOR/Blog-review)
+- Solution URL: [Solution](https://github.com/MARCUS-IMPERATOR/Blog-preview)
 - Live Site URL: [Live Site](https://marcus-imperator.github.io/Blog-review/)
 
 ## My process
